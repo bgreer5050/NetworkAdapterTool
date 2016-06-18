@@ -1,0 +1,10 @@
+C:\Users\admin\OneDrive\Repos\Attendance_Kalish\NetworkCard\GANetworkTool\bin\Debug\GANetworkTool.exe.config
+C:\Users\admin\OneDrive\Repos\Attendance_Kalish\NetworkCard\GANetworkTool\bin\Debug\GANetworkTool.exe
+C:\Users\admin\OneDrive\Repos\Attendance_Kalish\NetworkCard\GANetworkTool\bin\Debug\GANetworkTool.pdb
+C:\Users\admin\OneDrive\Repos\Attendance_Kalish\NetworkCard\GANetworkTool\bin\Debug\System.Management.Automation.dll
+C:\Users\admin\OneDrive\Repos\Attendance_Kalish\NetworkCard\GANetworkTool\obj\Debug\GANetworkTool.csprojResolveAssemblyReference.cache
+C:\Users\admin\OneDrive\Repos\Attendance_Kalish\NetworkCard\GANetworkTool\obj\Debug\GANetworkTool.Form1.resources
+C:\Users\admin\OneDrive\Repos\Attendance_Kalish\NetworkCard\GANetworkTool\obj\Debug\GANetworkTool.Properties.Resources.resources
+C:\Users\admin\OneDrive\Repos\Attendance_Kalish\NetworkCard\GANetworkTool\obj\Debug\GANetworkTool.csproj.GenerateResource.Cache
+C:\Users\admin\OneDrive\Repos\Attendance_Kalish\NetworkCard\GANetworkTool\obj\Debug\GANetworkTool.exe
+C:\Users\admin\OneDrive\Repos\Attendance_Kalish\NetworkCard\GANetworkTool\obj\Debug\GANetworkTool.pdb

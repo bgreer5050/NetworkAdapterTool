@@ -1,0 +1,7 @@
+C:\Users\admin\OneDrive\Repos\Attendance_Kalish\NetworkCard\NetworkCard\bin\Debug\NetworkCard.exe.config
+C:\Users\admin\OneDrive\Repos\Attendance_Kalish\NetworkCard\NetworkCard\bin\Debug\NetworkCard.exe
+C:\Users\admin\OneDrive\Repos\Attendance_Kalish\NetworkCard\NetworkCard\bin\Debug\NetworkCard.pdb
+C:\Users\admin\OneDrive\Repos\Attendance_Kalish\NetworkCard\NetworkCard\bin\Debug\System.Management.Automation.dll
+C:\Users\admin\OneDrive\Repos\Attendance_Kalish\NetworkCard\NetworkCard\obj\Debug\NetworkCard.csprojResolveAssemblyReference.cache
+C:\Users\admin\OneDrive\Repos\Attendance_Kalish\NetworkCard\NetworkCard\obj\Debug\NetworkCard.exe
+C:\Users\admin\OneDrive\Repos\Attendance_Kalish\NetworkCard\NetworkCard\obj\Debug\NetworkCard.pdb
