@@ -64,7 +64,9 @@ namespace GANetworkTool
             ps.AddCommand("Invoke-Expression");
 
             //ps.AddArgument("netsh interface set interface \"Local Area Connection\" admin=enable");
-            ps.AddArgument("netsh interface ipv4 set address \"Ethernet\" static 192.168.19.234 255.255.240.0 192.168.19.238 1");
+//            ps.AddArgument("netsh interface ipv4 set address \"Ethernet\" static 192.168.19.234 255.255.240.0 192.168.19.238 1");
+            ps.AddArgument("netsh interface ipv4 set address \"Ethernet\" static " + txtIP.Text + " " + txtSubnet.Text + " " + txtGateway.Text + " 1");
+
 
           //  ps.AddArgument("netsh interface ipv4 show interfaces");
 
